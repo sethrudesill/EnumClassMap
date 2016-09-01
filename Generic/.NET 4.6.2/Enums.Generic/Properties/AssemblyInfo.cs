@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Enums.Generic")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Supplies a container for enum values and property wrappers which can raise events when the property is changing or has changed.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Seth Rudesill")]
 [assembly: AssemblyProduct("Enums.Generic")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCopyright("Copyright © Seth Rudesill 2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
